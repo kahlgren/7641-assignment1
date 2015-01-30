@@ -2,6 +2,7 @@
 Contains unresized graphs for assignment 1.
 
 boost-adult-pct.png --> % Correct vs Iterations for AdaBoost, Adult dataset
+
 boost-adult-size.png --> % Correct vs Sample Size for AdaBoost, Adult dataset
 boost-nursery-pct.png --> % Correct vs Iterations for AdaBoost, Nursery dataset
 boost-nursery-size.png --> % Correct vs Sample Size for AdaBoost, Nursery dataset
